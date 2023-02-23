@@ -21,7 +21,6 @@ PrototypeCaptionMODは、Activision社から発売されているWindows用ビ�
 ### 1. 『PROTOTYPE』のインストール
 Windows用『PROTOTYPE』を任意のディレクトリにインストールしてください。以後このディレクトリを"**Prototype/**"と表記します。
 
-### 2. ScarfaceExplorer のダウンロード
 Fork 元である PrototypeCaptionMOD では日本語化 MOD や中国系の謎のソフトが必要でしたが，全部同梱しています．
 （著作権的にはアレですが，放棄されたリポジトリもしくはもう怪しいアップローダにしかないソフトであるため......）
 
