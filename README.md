@@ -1,10 +1,13 @@
 # PrototypeCaptionMOD 取扱説明書
 
-## やること
+## Todo
 ファイル読み込みの並列化
 
 ## PrototypeCaptionMODの機能と目的
 PrototypeCaptionMODは、Activision社から発売されているWindows用ビデオゲーム『PROTOTYPE』で使う字幕ファイルとフォントファイルを書き換えることができます。英語字幕から日本語字幕に書き換えることを、主な目的としています。
+
+このリポジトリは fork 元である [psychi/PrototypeCaptionMOD](https://github.com/psychi/PrototypeCaptionMOD) に存在した不完全もしくは日本語として不自然な翻訳をある程度緩和し、翻訳量を増やしたものです。
+（当方は英語読解はある程度できるものの、翻訳ができるほどの語学力はないため DeepL 翻訳とにらめっこしながら翻訳しました。）
 
 ## PrototypeCaptionMODの使用上の注意
 エラーが出て動かなかったらいい感じに csv 内の英語字幕側にある空白を埋めると機能します。
